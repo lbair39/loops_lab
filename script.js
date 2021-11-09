@@ -9,10 +9,14 @@ console.log(period[i]);
 i++;
 }
 
-while(i<=15){
-    console.log(i);
+function while1() {
+  let i = 0;
+  while(i<=9){
     i++;
+    console.log(i);
   }
+}
+ console.log(while1())
 
 
   for(i=0; i<=5; i=i+1) {
