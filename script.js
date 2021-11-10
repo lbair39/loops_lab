@@ -22,3 +22,6 @@ function while1() {
   for(i=0; i<=5; i=i+1) {
     console.log(i*5)
 }
+for ( i = 1; i<10; i += 2){
+  console.log(i);
+}
