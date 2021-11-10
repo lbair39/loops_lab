@@ -16,8 +16,7 @@ function while1() {
     console.log(i);
   }
 }
- console.log(while1())
-
+console.log(while1())
 
   for(i=0; i<=5; i=i+1) {
     console.log(i*5)
